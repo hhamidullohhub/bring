@@ -20,5 +20,6 @@ a {
 }
 
 .header-nav {
-
+    display: flex;
+    
 }
