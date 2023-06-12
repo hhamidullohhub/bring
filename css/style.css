@@ -21,5 +21,8 @@ a {
 
 .header-nav {
     display: flex;
+}
+
+.header-nav h2 {
     
 }
