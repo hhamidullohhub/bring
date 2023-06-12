@@ -29,9 +29,13 @@ nav {
 
 .header-nav {
     display: flex;
+    align-items: end;
 }
 
 .header-nav h2 {
     margin: 0 15px;
-    font-size: 20px;
+}
+
+.small-text {
+    font-size: 12px;
 }
