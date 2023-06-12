@@ -42,4 +42,5 @@ nav {
 
 .small-text:hover {
     color: #F04037;
+    cursor: pointer;
 }
