@@ -30,7 +30,8 @@ body {
 }
 
 nav {
-    background-color: rgb(234, 234, 234);
+    background-image: url(/img/BG.png);
+    background-size: 100%;
 }
 
 .header-nav {
