@@ -62,3 +62,7 @@ nav {
     width: 427px;
     color: #696871;
 }
+
+.darkred {
+    background-color: rgb(148, 44, 44);
+}
