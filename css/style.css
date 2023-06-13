@@ -135,7 +135,13 @@ nav {
     padding: 12px 120px 12px 40px;
 }
 
+.Bring-all {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
 .Bring-all i {
     font-size: 20px;
+    /* margin-right: -30px; */
 }
 
