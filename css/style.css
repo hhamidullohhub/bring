@@ -130,7 +130,9 @@ nav {
     border-radius: 5px;
 }
 
-
+.darkred:hover {
+    background-color: rgb(148, 44, 44);
+}
 
 .input-item {
     border: none;
