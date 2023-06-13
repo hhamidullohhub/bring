@@ -54,6 +54,7 @@ body {
 @media (max-width: 760px) {
     .container {
         width: 640px;
+        background-color: blue;
     }
 }
 
