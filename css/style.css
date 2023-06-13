@@ -47,7 +47,9 @@ body {
     }
 }
 
-@media (max-width: )
+@media (max-width: 760px) {
+    
+}
 
 nav {
     background-image: url(/img/BG.png);
