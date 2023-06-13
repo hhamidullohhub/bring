@@ -33,6 +33,7 @@ body {
 @media (max-widtth: 1060px) {
     .container {
         width: 940px;
+        background-color: green;
     }
 }
 
