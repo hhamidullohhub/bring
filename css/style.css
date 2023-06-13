@@ -69,6 +69,7 @@ body {
 @media (max-width: 560px) {
     .container {
         width: 440px;
+        background-color:rgb(148, 44, 44)
     }
 }
 
