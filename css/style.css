@@ -76,6 +76,7 @@ body {
 @media (max-width: 460px) {
     .container {
         width: 340px;
+        background-color: coral;
     }
 }
 
