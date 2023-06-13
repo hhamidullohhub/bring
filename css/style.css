@@ -83,6 +83,7 @@ body {
 @media (max-width: 360px) {
     .container {
         width: 240px;
+        background-color: red;
     }
 }
 
