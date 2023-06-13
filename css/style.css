@@ -59,6 +59,13 @@ body {
     }
 }
 
+
+@media (max-width: 560px) {
+    .container {
+        width: 440px;
+    }
+}
+
 nav {
     background-image: url(/img/BG.png);
     background-size: 100%;
