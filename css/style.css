@@ -29,23 +29,25 @@ body {
     }
 }
 
-@media (max-widtth: 1140px) {
+@media (max-widtth: 1060px) {
     .container {
         width: 940px;
     }
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 960px) {
     .container {
         width: 840px;
     }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 860px) {
     .container {
         width: 640px;
     }
 }
+
+@media (max-width: )
 
 nav {
     background-image: url(/img/BG.png);
