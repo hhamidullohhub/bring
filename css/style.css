@@ -132,6 +132,10 @@ nav {
 
 .input-item {
     border: none;
-    padding: 12px 120px 12px 10px;
+    padding: 12px 120px 12px 40px;
+}
+
+.Bring-all i {
+    font-size: 20px;
 }
 
