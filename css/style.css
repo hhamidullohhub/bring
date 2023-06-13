@@ -126,11 +126,11 @@ nav {
 .darkred {
     background-color: rgb(148, 44, 44);
     color: white;
-    padding: 10px 20px;
+    padding: 8px 20px;
     border-radius: 5px;
 }
 
 .input-item {
     border: none;
-    padding: 12px 100px 12px 10px;
+    padding: 12px 120px 12px 10px;
 }
