@@ -61,6 +61,7 @@ body {
 @media (max-width: 660px) {
     .container {
         width: 540px;
+        background-color: darkviolet;
     }
 }
 
