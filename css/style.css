@@ -26,6 +26,7 @@ body {
 @media (max-width: 1160px) {
     .container {
         width: 1040px;
+        background-color: red;
     }
 }
 
@@ -73,7 +74,9 @@ body {
 }
 
 @media (max-width: 360px) {
-    
+    .container {
+        width: 240px;
+    }
 }
 
 nav {
