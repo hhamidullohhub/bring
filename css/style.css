@@ -46,12 +46,16 @@ body {
         width: 840px;
         /* background-color: yellow; */
     }
+
+    .container .Bring-all {
+        margin-top: 100px;
+    }
 }
 
 @media (max-width: 860px) {
     .container {
         width: 740px;
-        background-color: aqua;
+        /* background-color: aqua; */
     }
 }
 
