@@ -70,6 +70,11 @@ body {
         width: 300px;
         font-size: 12px;
     }
+
+    .container .darkred {
+        padding: 10px 10px 12px 10px;
+        /* margin-left: -110px; */
+    }
 }
 
 @media (max-width: 760px) {
