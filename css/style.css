@@ -75,6 +75,10 @@ body {
         padding: 10px 10px 12px 10px;
         margin-left: -109px;
     }
+
+    .container .fa-bounce {
+        font-size: 15px;
+    }
 }
 
 @media (max-width: 760px) {
