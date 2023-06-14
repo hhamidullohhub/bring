@@ -65,6 +65,11 @@ body {
     .container .create {
         font-size: 13px;
     }
+
+    .container .input-item {
+        width: 300px;
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 760px) {
