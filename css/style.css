@@ -129,6 +129,7 @@ nav {
     padding: 8px 20px;
     border-radius: 5px;
     transition: .6s;
+    margin-left: -130px;
 }
 
 .darkred:hover {
@@ -137,7 +138,7 @@ nav {
 
 .input-item {
     border: none;
-    padding: 12px 120px 12px 40px;
+    padding: 15px 120px 15px 40px;
 }
 
 .Bring-all {
