@@ -76,6 +76,10 @@ body {
         margin-left: -109px;
     }
 
+    .container .omega {
+        font-size: 20px;
+    }
+
     .container .fa-bounce {
         font-size: 15px;
     }
