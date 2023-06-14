@@ -26,7 +26,11 @@ body {
 @media (max-width: 1160px) {
     .container {
         width: 1040px;
-        background-color: red;
+        /* background-color: red; */
+    }
+
+    .container .Bring-all {
+        margin-top: 150px;
     }
 }
 
@@ -90,6 +94,7 @@ body {
 nav {
     background-image: url(/img/BG.png);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .header-nav {
