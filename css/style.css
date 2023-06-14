@@ -57,6 +57,10 @@ body {
         width: 740px;
         /* background-color: aqua; */
     }
+
+    .container .bring-text {
+        font-size: 30px;
+    }
 }
 
 @media (max-width: 760px) {
