@@ -61,6 +61,10 @@ body {
     .container .bring-text {
         font-size: 30px;
     }
+
+    .container .create {
+        font-size: 13px;
+    }
 }
 
 @media (max-width: 760px) {
