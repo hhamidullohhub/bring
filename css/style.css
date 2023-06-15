@@ -172,6 +172,12 @@ body {
     .container .Bring-all .bring-text {
         font-size: 15px;
     }
+
+    .container .Bring-all .create {
+        font-size: 10px;
+        line-height: 20px;
+        width: 300px;
+    }
 }
 
 @media (max-width: 360px) {
