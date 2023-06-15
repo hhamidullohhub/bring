@@ -292,7 +292,8 @@ nav {
 .with-text {
     font-size: 15px;
     width: 240px;
-    color: darkgray;
+    color: rgb(129, 124, 124);
+    line-height: 22px;
 }
 
 .build-white {
