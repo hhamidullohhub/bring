@@ -189,7 +189,9 @@ body {
     }
 
     .container .Bring-all .input .darkred {
-        width: ;
+        height: 33px;
+        margin-left: -57px;
+        /* margin-right: 100px; */
         font-size: 7px;
     }
 
