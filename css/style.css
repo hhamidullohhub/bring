@@ -144,6 +144,10 @@ body {
     .container .Bring-all .create {
         margin-left: -80px;
     }
+
+    .container .Bring-all .input {
+        margin-left: -20px;
+    }
     
     .container i {
         margin-top: 14px;
