@@ -285,7 +285,17 @@ nav {
     background-color: #413E65;
 }
 
+.build-white i {
+    font-size: 25px;
+}
+
+.with-text {
+    font-size: 15px;
+    width: 240px;
+}
+
 .build-white {
+    background-color: white;
     display: flex;
     align-items: center;
 }
