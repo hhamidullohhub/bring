@@ -141,6 +141,12 @@ body {
     .container .input {
         display: flex;
     }
+
+    .container .input .darkred {
+        height: 40px;
+        margin-top: 2px;
+        
+    }
 }
 
 @media (max-width: 460px) {
