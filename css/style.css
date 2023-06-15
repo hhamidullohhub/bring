@@ -89,7 +89,11 @@ body {
 @media (max-width: 760px) {
     .container {
         width: 640px;
-        background-color: blue;
+        /* background-color: blue; */
+    }
+
+    .container .Bring-all {
+        margin-top: 50px;
     }
 }
 
@@ -97,6 +101,15 @@ body {
     .container {
         width: 540px;
         background-color: darkviolet;
+    }
+
+    .container .header-nav {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .container .Bring-all {
+        margin-top: 20px;
     }
 }
 
