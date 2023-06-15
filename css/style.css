@@ -285,6 +285,16 @@ nav {
     background-color: #413E65;
 }
 
+.section-item .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.custom {
+    width: 430px;
+}
+
 .build-white i {
     font-size: 40px;
 }
