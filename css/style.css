@@ -103,9 +103,13 @@ body {
         background-color: darkviolet;
     }
 
+    .container .bring-text {
+        font-size: 21px;
+        text-align: center;
+    }
+
     .container .header-nav {
-        display: flex;
-        flex-wrap: wrap;
+        
     }
 
     .container .Bring-all {
