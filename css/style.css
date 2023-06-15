@@ -286,21 +286,25 @@ nav {
 }
 
 .build-white i {
-    font-size: 50px;
+    font-size: 40px;
+}
+
+.multiple-text {
+    font-size: 18px;
 }
 
 .with-text {
-    font-size: 15px;
-    width: 240px;
+    font-size: 10px;
+    width: 160px;
     color: rgb(129, 124, 124);
     line-height: 22px;
 }
 
 .build-white {
-    justify-content: ;
+    justify-content: space-between;
     padding: 20px 30px;
     border-radius: 8px;
-    width: 300px;
+    width: 280px;
     background-color: white;
     display: flex;
     align-items: center;
