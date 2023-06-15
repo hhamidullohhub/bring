@@ -169,14 +169,24 @@ body {
         background-color: coral;
     }
 
+    .container .header-nav .omega {
+        font-size: 15px;
+    }
+
     .container .Bring-all .bring-text {
         font-size: 15px;
+        margin-left: -100px;
     }
 
     .container .Bring-all .create {
         font-size: 10px;
         line-height: 20px;
         width: 300px;
+    }
+
+    .container .Bring-all .input input {
+        width: 200px;
+        font-size: 7px;
     }
 }
 
