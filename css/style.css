@@ -291,6 +291,10 @@ nav {
     justify-content: space-between;
 }
 
+.build {
+    color: white;
+}
+
 .custom {
     width: 430px;
     color: #FFFFFFB3;
