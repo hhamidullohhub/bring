@@ -298,8 +298,11 @@ nav {
 }
 
 .custom {
-    width: 430px;
+    width: 500px;
     color: #FFFFFFB3;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 50px 0px;
 }
 
 .build-white i {
