@@ -184,6 +184,10 @@ body {
         width: 300px;
     }
 
+    .container .Bring-all i {
+        font-size: 10px;
+    }
+
     .container .Bring-all .input input {
         width: 200px;
         font-size: 7px;
