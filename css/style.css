@@ -141,11 +141,17 @@ body {
     .container .input {
         display: flex;
     }
+    .container .Bring-all .create {
+        margin-left: -100px;
+    }
+    
+    .container i {
+        margin-top: 14px;
+    }
 
     .container .input .darkred {
         height: 40px;
         margin-top: 2px;
-        
     }
 }
 
