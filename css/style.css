@@ -148,6 +148,10 @@ body {
     .container .Bring-all .input {
         margin-left: -20px;
     }
+
+    .container .Bring-all .bring-text {
+        margin-left: -50px;
+    }
     
     .container i {
         margin-top: 14px;
@@ -163,6 +167,10 @@ body {
     .container {
         width: 340px;
         background-color: coral;
+    }
+
+    .container .Bring-all .bring-text {
+        font-size: 15px;
     }
 }
 
