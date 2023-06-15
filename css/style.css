@@ -295,6 +295,8 @@ nav {
 }
 
 .build-white {
+    padding: 20px 30px;
+    width: 300px;
     background-color: white;
     display: flex;
     align-items: center;
