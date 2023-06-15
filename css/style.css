@@ -293,6 +293,8 @@ nav {
 
 .build {
     color: white;
+    font-size: 40px;
+    width: 400px;
 }
 
 .custom {
