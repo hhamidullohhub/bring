@@ -72,8 +72,9 @@ body {
     }
 
     .container .darkred {
-        padding: 10px 10px 12px 10px;
-        margin-left: -109px;
+        padding: 12px 10px 12px 10px;
+        margin-left: -90px;
+        font-size: 12px;
     }
 
     .container .omega {
