@@ -113,7 +113,8 @@ body {
         text-align: center;
     }
 
-    .container .header-nav { 
+    .container .header-nav .small-text {
+        display: none;
     }
 
     .container .Bring-all {
