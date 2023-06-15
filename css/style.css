@@ -188,6 +188,10 @@ body {
         font-size: 10px;
     }
 
+    .container .Bring-all .input .darkred {
+        font-size: 7px;
+    }
+
     .container .Bring-all .input input {
         width: 200px;
         font-size: 7px;
