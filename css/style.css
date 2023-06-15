@@ -20,7 +20,7 @@ body {
 .container {
     width: 1140px;
     margin: 0 auto;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 @media (max-width: 1160px) {
@@ -100,7 +100,7 @@ body {
 @media (max-width: 660px) {
     .container {
         width: 540px;
-        background-color: darkviolet;
+        /* background-color: darkviolet; */
     }
 
     .container .bring-text {
@@ -135,7 +135,7 @@ body {
 @media (max-width: 560px) {
     .container {
         width: 440px;
-        background-color:rgb(148, 44, 44)
+        /* background-color:rgb(148, 44, 44) */
     }
 
     .container .input {
@@ -166,7 +166,7 @@ body {
 @media (max-width: 460px) {
     .container {
         width: 340px;
-        background-color: coral;
+        /* background-color: coral; */
     }
 
     .container .header-nav .omega {
