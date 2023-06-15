@@ -280,3 +280,12 @@ nav {
     font-size: 20px;
     margin-right: -37px;
 }
+
+.section-item {
+    background-color: #413E65;
+}
+
+.build-white {
+    display: flex;
+    align-items: center;
+}
