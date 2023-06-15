@@ -286,7 +286,7 @@ nav {
 }
 
 .build-white i {
-    font-size: 25px;
+    font-size: 50px;
 }
 
 .with-text {
@@ -297,6 +297,7 @@ nav {
 }
 
 .build-white {
+    justify-content: ;
     padding: 20px 30px;
     border-radius: 8px;
     width: 300px;
