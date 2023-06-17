@@ -335,4 +335,6 @@ nav {
     border: 2px solid #C31A12;
     padding: 20px 30px;
     border-radius: 10px;
+    color: white;
+    font-weight: inherit;
 }
