@@ -286,6 +286,10 @@ nav {
     padding-top: 100px;
 }
 
+.build-white {
+    margin-top: 30px;
+}
+
 .section-item .container {
     display: flex;
     align-items: center;
