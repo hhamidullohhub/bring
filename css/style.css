@@ -20,31 +20,35 @@ body {
 .container {
     width: 1140px;
     margin: 0 auto;
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 @media (max-width: 1160px) {
     .container {
         width: 1040px;
-        /* background-color: red; */
+        background-color: red;
     }
 
     .container .Bring-all {
         margin-top: 150px;
+    }
+
+    .section-item {
+        margin-top: -101px;
     }
 }
 
 @media (max-width: 1060px) {
     .container {
         width: 940px;
-        /* background-color: green; */
+        background-color: green;
     }
 }
 
 @media (max-width: 960px) {
     .container {
         width: 840px;
-        /* background-color: yellow; */
+        background-color: yellow;
     }
 
     .container .Bring-all {
@@ -55,7 +59,7 @@ body {
 @media (max-width: 860px) {
     .container {
         width: 740px;
-        /* background-color: aqua; */
+        background-color: aqua;
     }
 
     .container .bring-text {
@@ -89,7 +93,7 @@ body {
 @media (max-width: 760px) {
     .container {
         width: 640px;
-        /* background-color: blue; */
+        background-color: blue;
     }
 
     .container .Bring-all {
@@ -100,7 +104,7 @@ body {
 @media (max-width: 660px) {
     .container {
         width: 540px;
-        /* background-color: darkviolet; */
+        background-color: darkviolet;
     }
 
     .container .bring-text {
@@ -135,7 +139,7 @@ body {
 @media (max-width: 560px) {
     .container {
         width: 440px;
-        /* background-color:rgb(148, 44, 44) */
+        background-color:rgb(148, 44, 44)
     }
 
     .container .input {
@@ -166,7 +170,7 @@ body {
 @media (max-width: 460px) {
     .container {
         width: 340px;
-        /* background-color: coral; */
+        background-color: coral;
     }
 
     .container .header-nav .omega {
