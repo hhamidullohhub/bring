@@ -72,6 +72,10 @@ body {
         width: 400px;
         font-size: 15px;
     }
+
+    .section-item .build-white {
+        width: 230px;
+    }
 }
 
 @media (max-width: 860px) {
