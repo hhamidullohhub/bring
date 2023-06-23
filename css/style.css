@@ -58,6 +58,10 @@ body {
     .container .Bring-all {
         margin-top: 100px;
     }
+
+    .section-item {
+        margin-top: -180px;
+    }
 }
 
 @media (max-width: 860px) {
