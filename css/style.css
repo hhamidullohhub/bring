@@ -64,6 +64,7 @@ body {
     }
 
     .section-item .build {
+        width: 300px;
         font-size: 30px;
     }
 }
