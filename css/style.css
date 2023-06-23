@@ -67,6 +67,11 @@ body {
         width: 300px;
         font-size: 30px;
     }
+
+    .section-item .custom {
+        width: 400px;
+        font-size: 15px;
+    }
 }
 
 @media (max-width: 860px) {
