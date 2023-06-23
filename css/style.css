@@ -43,6 +43,10 @@ body {
         width: 940px;
         background-color: green;
     }
+    
+    .section-item {
+        margin-top: -111px; 
+    }
 }
 
 @media (max-width: 960px) {
