@@ -80,6 +80,10 @@ body {
     .build-white .fa-instagram {
         font-size: 40px;
     }
+
+    .build-white .multiple-text {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 860px) {
