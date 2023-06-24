@@ -88,6 +88,10 @@ body {
     .build-white .with-text {
         font-size: 9px;
     }
+
+    .build-all {
+        margin-left: 30px;
+    }
 }
 
 @media (max-width: 860px) {
