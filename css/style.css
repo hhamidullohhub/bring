@@ -71,10 +71,14 @@ body {
     .section-item .custom {
         width: 400px;
         font-size: 15px;
-    }
+    } 
 
     .section-item .build-white {
         width: 230px;
+    }
+
+    .build-white .fa-instagram {
+        font-size: 40px;
     }
 }
 
