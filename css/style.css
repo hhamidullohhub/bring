@@ -84,6 +84,10 @@ body {
     .build-white .multiple-text {
         font-size: 14px;
     }
+
+    .build-white .with-text {
+        font-size: 9px;
+    }
 }
 
 @media (max-width: 860px) {
