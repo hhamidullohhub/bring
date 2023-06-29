@@ -133,6 +133,11 @@ body {
         font-size: 15px;
     }
 
+    .container .build-white i {
+        font-size: 35px;
+        
+    }
+
     .container .build-perfect .more {
         font-size: 12px;
         padding: 15px 20px;
