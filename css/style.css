@@ -132,6 +132,11 @@ body {
     .container .fa-bounce {
         font-size: 15px;
     }
+
+    .container .build-perfect .more {
+        font-size: 12px;
+        padding: 15px 20px;
+    }
 }
 
 @media (max-width: 760px) {
